@@ -10,7 +10,7 @@ namespace EasyCashIdentityProject.EntityLayer.Concrete
     {
         public int CustomerAccountProcessID { get; set; }
 
-        public string ProcesssType { get; set; }
+        public string? ProcesssType { get; set; }
 
         public decimal Amount { get; set; }
 
