@@ -5,13 +5,13 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.EntityLayer", "EasyCashIdentityProject.EntityLayer\EasyCashIdentityProject.EntityLayer.csproj", "{32EA18E7-809F-46EF-9E54-6F50FA33E689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.DataAccessLayer", "EasyCashIdentityProjectDataAccessLayer\EasyCashIdentityProject.DataAccessLayer.csproj", "{8A27E64D-2BE8-46E3-9EBE-135F1284680A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.DataAccessLayer", "EasyCashIdentityProjectDataAccessLayer\EasyCashIdentityProject.DataAccessLayer.csproj", "{8A27E64D-2BE8-46E3-9EBE-135F1284680A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.BusinessLayer", "EasyCashIdentityProjectBusinessLayer\EasyCashIdentityProject.BusinessLayer.csproj", "{504CA21D-8936-4B80-AC88-05D4367B252B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.BusinessLayer", "EasyCashIdentityProjectBusinessLayer\EasyCashIdentityProject.BusinessLayer.csproj", "{504CA21D-8936-4B80-AC88-05D4367B252B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.DtoLayer", "EasyCashIdentityProjectDtoLayer\EasyCashIdentityProject.DtoLayer.csproj", "{823F0FE3-9D95-4770-B12E-B4DEC7947CD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.DtoLayer", "EasyCashIdentityProjectDtoLayer\EasyCashIdentityProject.DtoLayer.csproj", "{823F0FE3-9D95-4770-B12E-B4DEC7947CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.PresentationLayer", "EasyCashIdentityProject.PresentationLayer\EasyCashIdentityProject.PresentationLayer.csproj", "{814C1F28-0792-41A8-8AA4-77BBD1AFB2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.PresentationLayer", "EasyCashIdentityProject.PresentationLayer\EasyCashIdentityProject.PresentationLayer.csproj", "{814C1F28-0792-41A8-8AA4-77BBD1AFB2D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
